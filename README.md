@@ -58,4 +58,6 @@ TIOS a basic operating system for the TI83 Plus, and TI 84 Plus
 
 12.
 	You have now installed TIOS now you just need to run it. In order to start TIOS simply hit the ```PRGM``` key and select ```Boot``` [NOTE: it is __VERY__ important that you do not run any other of the programs yourself, some may damage your installation of TIOS or corrupt your data].
-	
+
+13.
+	After entering the OS main menu and selecting "Start" you will be directed to a login screen, the default password for the OS is "UMA" and can be changed through the system settings.

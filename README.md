@@ -1,6 +1,5 @@
 # TI-OS
-TIOS a basic operating system for the TI83 Plus, and TI 84 Plus
-
+TIOS a basic operating system for the TI83 Plus, and TI 84 Plus, it runs relatively slow due to the limited power of these devices, but soon we will be releasing a high performance version with the same great tools in a less GUI rich environment. This "Non-GUI TIOS" will allow you to navigate between tools more easily and save on battery usage, but will make things like Calendar reminders impossible. Both the GUI and Non-GUI versions will continue to be maintained.
 
 ## Installation
 

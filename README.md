@@ -53,7 +53,7 @@ TIOS a basic operating system for the TI83 Plus, and TI 84 Plus, it runs relativ
 	Press ```ENTER``` and you may be greeted by the DuplicateName screen, if this happend simply select "Overwrite all"
 	
 11.
-	Now simply wait for the calculator to uncompress the archive file and when it says "Done" hit ```CLEAR```
+	ait for the calculator to uncompress the archive file and when it says "Done" hit ```CLEAR```
 
 12.
 	You have now installed TIOS now you just need to run it. In order to start TIOS simply hit the ```PRGM``` key and select ```Boot``` [NOTE: it is __VERY__ important that you do not run any other of the programs yourself, some may damage your installation of TIOS or corrupt your data].

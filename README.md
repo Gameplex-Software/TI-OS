@@ -37,7 +37,7 @@ TIOS a basic operating system for the TI83 Plus, and TI 84 Plus, it runs relativ
 ![](https://i.ibb.co/VxBxcK8/Screen-Shot-2021-11-21-at-7-50-20-AM.png)
 
 7.
-	Now turn your attention to your calculator and predd the ```2nd``` and ```+``` keys, you will be taken to the memory screen.
+	Now turn your attention to your calculator and press the ```2nd``` and ```+``` keys, you will be taken to the memory screen.
 	
 ![](https://i.ibb.co/GM7NsyY/Capture1-1637499310960.png)
 
